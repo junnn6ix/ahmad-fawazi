@@ -1,3 +1,2 @@
-# ahmad-fawazi
-
-Dummy Portfolio using TailwindCSS
+# DUMMY PORTFOLIO WEBSITE
+using TailwindCSS;
